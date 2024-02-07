@@ -1,0 +1,5 @@
+numpy==1.26.4
+tensorflow==2.15.0
+matplotlib==3.8.2
+pandas==2.2.0
+ipykernel==6.29.2
