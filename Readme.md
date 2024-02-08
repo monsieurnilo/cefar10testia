@@ -10,4 +10,4 @@ Copier /dataset, requirements.txt et testis.ipynb dans la venv testia
 ```
 pip install -r .\requirements.txt
 ```
-Aller sur le fichier testia.ipynb et lancer tout
+Aller sur le fichier testia.ipynb et lancer tout 
